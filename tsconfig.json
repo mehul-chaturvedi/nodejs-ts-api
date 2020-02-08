@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
-        "target": "ES5",
+        "target": "ES2015",
         "module": "commonjs",
         "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
         "moduleResolution": "node",
         "sourceMap": true,
         "emitDecoratorMetadata": true,
